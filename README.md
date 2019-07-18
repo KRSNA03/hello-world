@@ -1,2 +1,2 @@
 # hello-world
-My attempt at understanding GitHub.
+Namahshivaya. My attempt at creating a branch and committing changes.
